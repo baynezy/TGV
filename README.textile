@@ -1,0 +1,11 @@
+h1. TGV.js
+
+Main website "http://algytaylor.blogspot.com/2011/11/tgvjs-javascript-to-reduce-page-loading.html":http://algytaylor.blogspot.com/2011/11/tgvjs-javascript-to-reduce-page-loading.html
+ 
+
+h2. About this repository
+
+This repository is a copy of a JavaScript framework written by Algy Taylor. It's licensed under the Creative Commons BY license, which means you can use provided you acknowledge it as being written "by Algy Taylor for Conker Media Ltd", or words to that effect in the comments.
+
+
+
